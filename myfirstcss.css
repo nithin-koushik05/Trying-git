@@ -1,0 +1,21 @@
+h1 {
+    color: brown;
+    text-align: center;
+    
+}
+
+body {
+    color: black;
+    text-decoration: solid;
+    font-size: larger;
+    background-color:beige ;
+
+}
+
+button {
+    color: rgb(13, 14, 14);
+    font-weight: bold;
+    background-color: bisque;
+    
+}
+
