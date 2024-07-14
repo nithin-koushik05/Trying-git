@@ -1,0 +1,12 @@
+div{
+     background-color: burlywood;
+     text-align: center;
+}
+
+#box{
+    height: 150px;
+    width: 200px;
+    background-color: salmon;
+    text-align: left;
+
+}
